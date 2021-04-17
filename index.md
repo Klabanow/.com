@@ -1,7 +1,8 @@
 # Welcome to me!
 
-Hi! My name is Krystina.  I am the three As: Adaptive, Agile and Awesome. 
-I am also the three Ps: Patient, Persistent and Product-Oriented.
+Hi! My name is Krystina.  I am the three As: Adaptive, Agile and Awesome. :relaxed:
+
+I am also the three Ps: Patient, Persistent and Product-Oriented. 
 
 ### Markdown
 
