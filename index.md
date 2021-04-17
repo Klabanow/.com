@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+# Welcome to me!
 
-You can use the [editor on GitHub](https://github.com/Klabanow/.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! My name is Krystina.  I am the three As: Adaptive, Agile and Awesome. 
+I am also the three Ps: Patient, Persistent and Product-Oriented.
 
 ### Markdown
 
